@@ -1,1 +1,1 @@
-# Generating-lightcurves
+# Assembling Lightcurves for Superluminous Supernovae
